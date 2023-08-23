@@ -40,4 +40,17 @@
 			</ul>
 			<h2>Miscellaneous File Locations</h2>
 			<ul>
-				<li><a href="https://cwwp2.dot.ca.gov/documentation/district-map-county-chart.htm">Dis
+				<li><a href="https://cwwp2.dot.ca.gov/documentation/district-map-county-chart.htm">District Map and County Chart</a> - Shows the relationship of Districts to counties</li>
+				<li><a href="https://cwwp2.dot.ca.gov/documentation/route-chart.htm">Route Chart</a> - Lists the state highway routes</li>
+				<li><a href="https://cwwp2.dot.ca.gov/documentation/prefix-suffix-alignment-charts.htm">Postmile Prefix / Route Suffix / Alignment Charts</a> - Decodes the values reported in the Postmile Prefix, Route Suffix and Alignment fields</li>
+			</ul>
+			<h2>Tools</h2>
+			<ul>
+				<li><a href="https://cwwp2.dot.ca.gov/tools/showImages.htm" aria-label="CCTV Images">CCTV</a> - Displays CCTV images using CWWP2 CCTV JSON data</li>
+				<li><a href="https://cwwp2.dot.ca.gov/tools/cctvmobile.htm">CCTV Mobile</a> - Displays CCTV images for mobile applications using CWWP2 CCTV JSON data</li>
+				<li><a href="https://cwwp2.dot.ca.gov/vm/nomap.htm">CCTV Streaming</a> - Displays CCTV streaming sites using CWWP2 CCTV JSON data</li>
+				<li><a href="https://cwwp2.dot.ca.gov/tools/showCMS.htm" aria-label="CMS Message Displays">CMS</a> - Displays CMS information using CWWP2 CMS JSON data</li>
+			</ul>
+		</main>
+	</body>
+</html>
