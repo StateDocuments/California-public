@@ -44,6 +44,15 @@
 				<li><a href="https://cwwp2.dot.ca.gov/documentation/route-chart.htm">Route Chart</a> - Lists the state highway routes</li>
 				<li><a href="https://cwwp2.dot.ca.gov/documentation/prefix-suffix-alignment-charts.htm">Postmile Prefix / Route Suffix / Alignment Charts</a> - Decodes the values reported in the Postmile Prefix, Route Suffix and Alignment fields</li>
 			</ul>
+			<h2>Additional Traveler Information Websites</h2>
+			<ul>
+				<li><a href="https://oss.weathershare.org/">One Stop Shop for Traveler Information (OSS)</a></li>
+				<li><a href="https://roads.dot.ca.gov//">Caltrans Highway Information Network (CHIN)</a></li>
+				<li><a href="https://pems.dot.ca.gov/">Caltrans Performance Measurement System (PeMS)</li>
+				<li><a href="https://lcswebreports.dot.ca.gov/">Caltrans Planned Lane Closures Application</li>
+				<li><a href="https://cad.chp.ca.gov/">California Highway Patrol Traffic Incident Information Page (CAD)</a></li>
+				<li><a href="https://www.ngs.noaa.gov/TOOLS/spc.html">National Geodetic Survey Coordinate Translation Page</a></li>
+			</ul>
 			<h2>Tools</h2>
 			<ul>
 				<li><a href="https://cwwp2.dot.ca.gov/tools/showImages.htm" aria-label="CCTV Images">CCTV</a> - Displays CCTV images using CWWP2 CCTV JSON data</li>
