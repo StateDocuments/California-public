@@ -55,7 +55,8 @@
 			<ul>
 				<li><a href="https://cwwp2.dot.ca.gov/tools/showImages.htm" aria-label="CCTV Images">CCTV</a> - Displays CCTV images using CWWP2 CCTV JSON data</li>
 				<li><a href="https://cwwp2.dot.ca.gov/tools/cctvmobile.htm">CCTV Mobile</a> - Displays CCTV images for mobile applications using CWWP2 CCTV JSON data</li>
-				<li><a href="https://cwwp2.dot.ca.gov/vm/nomap.htm">CCTV Streaming</a> - Displays CCTV streaming sites using CWWP2 CCTV JSON data</li>
+				<li><a href="https://cwwp2.dot.ca.gov/vm/nomap.htm">CCTV Streaming</a> - Displays CCTV streaming sites using CWWP2 CCTV JSON datfsa</li>
+				<li><a href="https://cwwp2.dot.ca.gov/vm/iframemap.htm" arial-label="CCTV Statewide Map">CCTV Statewide Map</a> - CCTV Statewide Map</li>				
 				<li><a href="https://cwwp2.dot.ca.gov/tools/showCMS.htm" aria-label="CMS Message Displays">CMS</a> - Displays CMS information using CWWP2 CMS JSON data</li>
 			</ul>
 		</main>
