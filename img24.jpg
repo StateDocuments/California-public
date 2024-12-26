@@ -17,7 +17,8 @@
 			<p>Please read the <a href="https://dot.ca.gov/conditions-of-use">Conditions Of Use</a> before using these data sets.</p>
 			<h2>Announcements</h2>
 			<ul>
-				<li>December 26th, 2024 : Caltrans has started to provide experimental border wait times for crossings into US from Mexcio in XML format.  Other formats will follow.</li>
+				<li>October 20, 2020 : On November 9, 2020 Caltrans will be migrating the Caltrans Wholesale Website Portal Version 2 (CWWP2) to the HTTPS protocol from the HTTP protocol.  HTTP will be available until November 9th, 2020 and will be redirected to HTTPS thereafter.  HTTPS will not be available until after the transition on November 9th, 2020.  Please update your clients and applications that utilize the CWWP2 as necessary to accommodate this important change.</li>
+				<li>July 23, 2019 : On October 1, 2019 traveler information data files located on https://www.dot.ca.gov, https://www1.dot.ca.gov and https://www2.dot.ca.gov will be no longer available for use in your application.  Please start using this website as soon as possible in your application.  To assist you during this transition, please use the <a href="https://cwwp2.dot.ca.gov/announcements/caltransTravelerInformationCrosswalk.pdf">file migration crosswalk (PDF)</a>.</li>
 			</ul>
 			<h2>Data Format and File Layout</h2>
 			<p>Data is available in four file formats that contain the same information to allow easy integration into your application.  Included below are the file format layouts:</p>
